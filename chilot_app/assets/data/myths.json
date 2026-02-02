@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Pincoya",
+    "category": "acuatico",
+    "description": "La Pincoya es una criatura imaginaria marina de la mitología de Chiloé. Tiene el aspecto de una mujer joven y hermosa con una larga cabellera rubia y una apariencia completamente humana【640985713271877†L132-L138】. Se dice que aparece desde las profundidades del mar, semivestida con un traje de sargazo, para danzar en las playas y que la orientación de su danza señala si la pesca será abundante o escasa en la temporada que se avecina【640985713271877†L132-L139】."
+  },
+  {
+    "id": 2,
+    "name": "Trauco",
+    "category": "terrestre",
+    "description": "El Trauco es una criatura de la mitología chilota, descrita como un ser con apariencia de hombre de facciones desagradables, de baja estatura (no más de 80 cm) y con piernas que terminan en muñones【996211601673078†L131-L141】. Se pasea por los bosques de Chiloé llevando un bastón retorcido llamado pahueldún y una pequeña hacha de piedra capaz de cortar cualquier árbol con tres golpes【996211601673078†L145-L148】. Según las leyendas, posee una fuerza descomunal y puede deformar la cara o quebrar los huesos de un hombre con solo mirarlo, además de seducir a las mujeres para dejarlas embarazadas【996211601673078†L156-L163】."
+  },
+  {
+    "id": 3,
+    "name": "Tenten Vilú y Caicai Vilú",
+    "category": "acuatico-terrestre",
+    "description": "El mito de Tenten Vilú y Caicai Vilú describe dos enormes serpientes con poder sobre distintos elementos. Tenten domina la tierra y Caicai las aguas. Cuando Caicai creó una inundación y provocó erupciones volcánicas, Tenten advirtió a los humanos y levantaba los cerros para protegerlos【651523354080490†L66-L73】. Según esta tradición, quienes no lograron salvarse se convirtieron en animales marinos y rocas. Tenten tiene cuatro patas y su canto se compara con el de un gallo, mientras que Caicai es capaz de emitir un sonido estridente como un relincho【651523354080490†L76-L80】."
+  },
+  {
+    "id": 4,
+    "name": "Basilisco chilote",
+    "category": "terrestre",
+    "description": "El Basilisco es una criatura de la mitología chilota descrita como una mezcla de culebra con gallo y a veces murciélago. Nace del huevo puesto por un gallo colorado viejo o por una gallina muy vieja y emerge como una pequeña serpiente con cresta y alas de murciélago. Tiene la capacidad de matar solo con la mirada【651523354080490†L90-L99】. De unos cincuenta o sesenta centímetros de largo, se oculta en cuevas o cerca de los cimientos de las casas. Para erradicarlo se debe reflejar en un espejo mágico o alejarlo con una cruz de ramas de michay【651523354080490†L90-L103】."
+  },
+  {
+    "id": 5,
+    "name": "Cuchivilú",
+    "category": "acuatico",
+    "description": "El Cuchivilú es una criatura con aspecto de cerdo monstruoso: tiene cuerpo de culebra, gruñe como puerco y vive en cuevas, en el mar o en lodos de los esteros. Se alimenta de peces que consume en las orillas y destruye los corrales de pesca【651523354080490†L110-L113】. No es visible para las personas normales, solo para los brujos, pero puede afectarlas con sus influencias malignas; sus orines contaminan arenas y aguas, provocando enfermedades. Para mantenerlo lejos de los corrales se debe realizar un ritual denominado "cheputo"【651523354080490†L110-L121】."
+  },
+  {
+    "id": 6,
+    "name": "Camahueto",
+    "category": "terrestre",
+    "description": "El Camahueto es una criatura descrita como un ternero de grandes dimensiones con un cuerno en medio de la frente y una fuerza descomunal. Algunas versiones lo describen como un poderoso caballo marino del tamaño de un cetáceo o como un enorme ternero con cabeza de chancho y colmillos filosos. Se dice que sale por las noches de luna llena y sus cuernos y ojos destellan con brillos dorados【651523354080490†L125-L133】."
+  }
+]]
