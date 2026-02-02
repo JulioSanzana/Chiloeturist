@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Chiloé",
+    "origin_language": "mapudungun",
+    "meaning": "Lugar de chelles (gaviotas)",
+    "description": "El nombre Chiloé proviene de Chilhué, la adaptación al español de la palabra mapudungun chillwe. Chillwe significa ‘lugar de chelles’ (gaviotines blancos de cabeza negra)【254704454657055†L274-L281】. Los chelles (Chroicocephalus maculipennis) son aves frecuentes en las playas y lagunas del archipiélago【254704454657055†L278-L282】."
+  },
+  {
+    "id": 2,
+    "name": "Ancud",
+    "origin_language": "mapudungun",
+    "meaning": "Valle grande / cerros ventrudos / tierra fértil",
+    "description": "El origen del nombre Ancud tiene varias interpretaciones. Se ha propuesto una expresión en mapudungun que significa ‘valle grande’ y otras con el sentido de ‘cerros ventrudos’ o ‘tierra fértil’【656304526443249†L238-L240】. Otra fuente señala que la palabra deriva del mapudungun ankúñ, que significa ‘secarse, agotarse’【535663942089647†L11-L13】."
+  },
+  {
+    "id": 3,
+    "name": "Futaleufú",
+    "origin_language": "mapudungun",
+    "meaning": "Río grande",
+    "description": "Futaleufú proviene del mapudungun fütra (grande) y ḿewfu/lhewfu (río). Su nombre, que significa ‘río grande’, se utiliza tanto para el río Futaleufú como para la comuna situada en la provincia de Palena, Región de Los Lagos【584893990823636†L184-L196】."
+  }
+]
