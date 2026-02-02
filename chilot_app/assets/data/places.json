@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Iglesias de Chiloé",
+    "category": "cultural",
+    "description": "Las iglesias de Chiloé son joyas de madera que integran la arquitectura religiosa del archipiélago. Dieciséis de ellas fueron reconocidas como Patrimonio de la Humanidad por la UNESCO. Construidas entre los siglos XVIII y XIX por manos locales y misioneros jesuitas y franciscanos, combinan estilos europeos con técnicas de carpintería tradicional chilota【493052466685765†L39-L56】. Algunas de las más destacadas son la Iglesia de San Francisco en Castro (con su fachada colorida y torres gemelas), la Iglesia de Santa María de Loreto en Achao (construida alrededor de 1740 sin utilizar clavos metálicos), y las iglesias de Tenaún, Nercón y Dalcahue【493052466685765†L59-L67】."
+  },
+  {
+    "id": 2,
+    "name": "Parque Nacional Chiloé",
+    "category": "naturaleza",
+    "description": "El Parque Nacional Chiloé, ubicado en la costa occidental de la isla Grande, protege más de 430 km² de bosques siempreverdes, turberas, dunas costeras y humedales【493052466685765†L69-L90】. Entre sus senderos se cuentan el Tepual, un recorrido breve por un bosque nativo con pasarelas elevadas; el Río Cole‑Cole para aventureros; y el Chanquín–Cucao, que conecta la costa con los bosques interiores【493052466685765†L81-L87】. Desde sus acantilados se observa el océano Pacífico y, hacia el interior, se extienden bosques de alerces milenarios【493052466685765†L89-L91】."
+  },
+  {
+    "id": 3,
+    "name": "Isla Quinchao",
+    "category": "cultural/naturaleza",
+    "description": "La Isla Quinchao se encuentra a pocos minutos en transbordador desde Dalcahue y ofrece paisajes apacibles y pueblos tradicionales【493052466685765†L94-L103】. En Achao se ubica la Iglesia de Santa María de Loreto, la más antigua de Chiloé, construida en madera y declarada Patrimonio de la Humanidad【493052466685765†L106-L108】. Otra localidad destacada es Curaco de Vélez, famoso por su arquitectura tradicional, balcones coloridos y vistas al canal de Dalcahue【493052466685765†L108-L110】. Las playas tranquilas y los campos verdes permiten paseos relajados y fotografía【493052466685765†L112-L114】."
+  },
+  {
+    "id": 4,
+    "name": "Ciudad de Castro",
+    "category": "urbano/cultural",
+    "description": "Castro es la capital del archipiélago de Chiloé y destaca por sus palafitos, casas de colores construidas sobre el agua que forman una postal inolvidable frente al fiordo【493052466685765†L118-L124】. La ciudad alberga la Iglesia de San Francisco, ubicada en la Plaza de Armas, y un mercado donde se pueden degustar platos típicos como el curanto, el milcao y mariscos frescos, así como comprar artesanías de lana, madera o fibras naturales【493052466685765†L126-L132】."
+  }
+]
