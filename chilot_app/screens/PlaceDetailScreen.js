@@ -1,13 +1,23 @@
-import React from 'react';
+  import React from 'react';
 import { View, Text, ScrollView, StyleSheet } from 'react-native';
 
 const PlaceDetailScreen = ({ route }) => {
   const { name, description, category } = route.params;
+
+  const cleanText = (text) =>
+    text
+      .replace(/【.*?】/g, '')
+      .replace(/contentReference\[.*?\]\{index=.*?\}/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+
   return (
     <ScrollView style={styles.container}>
       <Text style={styles.title}>{name}</Text>
       <Text style={styles.category}>{category.toUpperCase()}</Text>
-      <Text style={styles.description}>{description}</Text>
+      <Text style={styles.description}>
+        {cleanText(description)}
+      </Text>
     </ScrollView>
   );
 };
